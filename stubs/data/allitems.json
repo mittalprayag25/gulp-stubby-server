@@ -1,0 +1,1568 @@
+{
+    "fullyredeem": {
+        "textcolor": "#FF0000",
+        "maskcolor": "#FFFFFF",
+        "label": "FULLY REDEEMED",
+        "opacity": 0.5
+    },
+    "memberno": "1894351432",
+    "redemptionphysicalform": {
+        "formdescription": "Kindly confirm the following information before your redemption.",
+        "namelabel": "Registered Name",
+        "namevalue": "LMSLEGACY ",
+        "addressvalue": "485B TAMPINES AVENUE 9, #10-128, SINGAPORE 521485\n",
+        "formtitle": "Redeem Voucher",
+        "selectaddress": {
+            "addresses": [
+                {
+                    "address": "485B TAMPINES AVENUE 9, #10-128, SINGAPORE 521485\n",
+                    "id": "27251577"
+                },
+                {
+                    "address": "486B TAMPINES AVENUE 9, #10-128, SINGAPORE 521485\n",
+                    "id": "27251578"
+                },
+                {
+                    "address": "487B TAMPINES AVENUE 9, #10-128, SINGAPORE 521485\n",
+                    "id": "27251579"
+                }
+            ],
+            "description": "Please select a delivery address. The selected address will be set as the default delivery address for future redemptions.",
+            "title": "Change Address"
+        },
+        "showcheckbox": false,
+        "tnc": {
+            "details": "By clicking on the Proceed button, you agree that you have read, understood and accepted the {0}",
+            "links": [
+                {
+                    "svcname": "Terms & Conditions",
+                    "svctype": "rewarditempopup"
+                }
+            ]
+        },
+        "screentitle": "Redemption",
+        "addresslabel": "Delivery Address",
+        "addressid": "27251577"
+    },
+    "luckydrawform": {
+        "formdescription": "Stand a chance to win '{itemName}'.",
+        "namelabel": "Registered Name",
+        "namevalue": "LMSLEGACY ",
+        "emailvalue": "ut23_lmslegacy2@yopmail.com",
+        "contactnovalue": "",
+        "formtitle": "Lucky Draw Participation",
+        "contactnolabel": "Contact Number",
+        "showcheckbox": true,
+        "tnc": {
+            "details": "By submitting the form, I agree that I have read, understood and accepted the Campaign Terms & Conditions and consent to Singtel collecting, using and disclosing my personal data for the purposes set out in {0} and {1} of Singtel’s General Terms and Conditions, where applicable.",
+            "links": [
+                {
+                    "svcname": "Singtel’s Data Protection Policy",
+                    "svclink": "https://www.singtel.com/personal/i/dataprotection?targetbrowser=external",
+                    "svctype": ""
+                },
+                {
+                    "svcname": "Clause 15",
+                    "svclink": "https://www.singtel.com/terms-general?targetbrowser=external",
+                    "svctype": ""
+                }
+            ]
+        },
+        "additionconsent": "In addition, I consent to Singtel contacting me via phone call, text message, email or post for the purpose of marketing and promotions.",
+        "emailabel": "Email Address",
+        "screentitle": "Lucky Draw"
+    },
+    "redemptioncategories": [
+        {
+            "cattype": "all",
+            "name": "All"
+        },
+        {
+            "cattype": "birthday",
+            "name": "Birthday Treats",
+            "count": 14
+        },
+        {
+            "cattype": "prestige",
+            "name": "Prestige Exclusives",
+            "count": 3
+        },
+        {
+            "cattype": "dining",
+            "name": "Dining",
+            "count": 12
+        },
+        {
+            "cattype": "entertainment",
+            "name": "Entertainment",
+            "count": 8
+        },
+        {
+            "cattype": "movie",
+            "name": "Movie",
+            "count": 2
+        },
+        {
+            "cattype": "shopping",
+            "name": "Shopping",
+            "count": 2
+        },
+        {
+            "cattype": "travel",
+            "name": "Travel",
+            "count": 3
+        }
+    ],
+    "code": 200,
+    "redemptionitems": [
+        {
+            "systemid": "B",
+            "cattype": "birthday",
+            "name": "Birthday Treats",
+            "details": "",
+            "items": [
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1616_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Singtel",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1616_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Free 1GB Birthday local data will be automatically awarded to all your eligible Singtel Postpaid mobile line(s) on your birthday month for one (1) month.<br/></li><li>Free 1GB Birthday local data start from your bill cycle date that is registered with Singtel.<br/></li><li>Free 1GB Birthday local data is only applicable for local usage, excluding mobile broadband bundled local data. Prevailing roaming data rates apply accordingly.<br/></li><li>Free 1GB Birthday local data is capped at 1GB and will be utilised before the bundled data offered under the mobile plan.<br/></li><li>Any excess local data used will be charged at prevailing rates.<br/></li><li>Unused local data cannot be carried forward to subsequent months. Any unused local data will be forfeited.<br/></li><li>Free 1GB Birthday local data is not transferable.<br/></li><li>To qualify for the Free 1GB Birthday local data, you must be a Residential or CIS customer with a valid Date of Birth registered with Singtel.<br/></li><li>Applicable plans: SIM only, Combo, Easy Mobile plans, 2GB Lite plan; 3GB Value plan;  4GB Plus plan; 12GB Premium and 12GB Prestige plans.<br/></li><li>Maintain a good credit status and have no outstanding bills with us.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1616",
+                    "catid": "16",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Enjoy FREE 1GB local data on your birthday month!"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1902_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Wanderlust Hotel",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1902_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 to 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app to utilize the offer.<br/></li><li>Reservations have to be made via email at WLH-RES@unlistedcollection.com or call +65 65792026 and quote 'Singtel Bday Treats 2018'.<br/></li><li>No walk-in reservations allowed.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1902",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 10% off Best Available Rates"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1903_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Grand Mirage Resort and Thalasso Bali",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1903_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 to 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app to utilize the offer.<br/></li><li>Promotion is valid only at Grand Mirage.<br/></li><li>Prior reservation is required and rooms are subject to availability.<br/></li><li>Offer is only valid for online bookings and strictly no walk-in reservations.<br/></li><li>Please key in discount code \"SINGTELCUST_GMR1718\" via grandmirage.com.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1903",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 10% off Best Available Rates",
+                        "Complimentary breakfast for 2",
+                        "20% off F&B",
+                        "Free return airport transfer and unlimited non-motorized water sport for booking of min. 4 nights",
+                        "Get 1 Complimentary Aquamedic pool treatment (60 min) with every Thalasso Spa session booked",
+                        "20% off Devdan Show"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1911_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Cat & the Fiddle",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1911_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 to 31 January 2019, whilst stocks last.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app to utilize the offer.<br/></li><li>Each promo code is limited to one-time use only.<br/></li><li>Discount is applicable to the lowest priced cheesecake for the purchase of more than one (1) cheesecakes.<br/></li><li>To enjoy the discount, key in the “SINGTELCAT” prior to payment via www.catandthefiddle.com.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app upon redemption for verification in order to utilize the offer.<br/></li><li>Offer is not applicable to gifts, add-ons and delivery.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1911",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 20% off online orders",
+                        "Simply key in the promo code “SINGTELCAT” prior to payment via www.catandthefiddle.com."
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1913_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Firefly Photography",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1913_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid only for redemption of the birthday shoot during birthday month and the month after.<br/></li><li>Prior booking is required.<br/></li><li>Key in promo code \"Singtel(Last 4 digit of your NRIC), i.e Singtel1234\" online via fireflyphotographysg.com/redeem-voucher to book a slot.<br/></li><li>Slots are subjected to availability.<br/></li><li>Upon confirmation of the shoot, Singtel customers will need to bring their NRIC and flash their Singtel operator logo during redemption.<br/></li><li>A maximum of 5 people are allowed for the shoot.<br/></li><li>Unlimited shots will be done during the shoot . The best 5 images (in high resolution and edited) will be selected by the photographer and compiled in DVD and<br/></li><li>sent to an address of the customer’s choice.<br/></li><li>An postage fee of $3 will be borne by the customer.<br/></li><li>Top up options are available on the website and will be borne by the customer.<br/></li><li>Any conversion from an outdoor shoot to an indoor studio shoot (at a surcharge of $20) will be borne by the customer.<br/></li><li>An postage fee of $3 will be borne by the customer.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1913",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: Complimentary 90min outdoor photoshoot"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1914_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Browhaus",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1914_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 to 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app to utilize the offer.<br/></li><li>Promotion is valid at all Browhaus outlets. For outlet locations, visit www.browhaus.com/sg_en/.<br/></li><li>Limited to one redemption per customer. Voucher cannot be used cumulatively.<br/></li><li>Offer is valid for both new and existing customers.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1914",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: $10 Brow Threading or 10% off Brow Shaping packages"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1915_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Jean Yip Hairdressing",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1915_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Strictly by appointment only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app upon appointment.<br/></li><li>Offer is not valid from 2 February to 19 February 2018 and 18 December to 25 December 2018.<br/></li><li>Limited to 1 redemption per customer.<br/></li><li>Valid for customers aged 21 years old and above.<br/></li><li>Only applicable for basic hair colours (Black, Medium Black, Soft Black, Dark Brown, Medium Brown). A top up for other colours apply.<br/></li><li>Only valid at the following outlets: Lot 1, Tampiness Mall, Bishan Junction 8, Plaza Singapura, Bugis Junction, North Point and Causeway Point.<br/></li><li>Applicable for Singaporeans, SPRs and work permit holders with minimum 6 months validity.<br/></li><li>Not applicable with other promotions, discounts and/or vouchers.<br/></li><li>Not exchangeable for cash, products, and/or other services.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1915",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: Hair Colour and Hair Treatment at $68"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1916_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Elements Wellness",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_1916_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>All prices are subject to 7% GST.<br/></li><li>Prior booking of appointment is required and kindly quote “Singtel Birthday” during booking.<br/></li><li>For booking, call or SMS the participating outlets’ number, available time slots are subject to availability.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app upon appointment.<br/></li><li>Participating outlets: Elements ION, #B1-30 ION Orchard (Tel: 6738 3788 / SMS 9059 8188),<br/></li><li>Elements Centrepoint #02-28 The Centrepoint (Tel: 6737 8488 / SMS 9056 8088),<br/></li><li>Spa Infinity #02-486 Suntec City Mall Tower 2 (Tel: 6738 0069/ SMS 9081 8898) and<br/></li><li>Spa Symphony #B2-50/51, 313@Somerset (Tel: 6636 8878 / SMS 9035 8833).<br/></li><li>Customers will need to present the NRIC/Passport with original voucher or flash the offer on My Singtel app or email during the appointment.<br/></li><li>Each cardholder is limited to one redemption.<br/></li><li>Valid for first-time customers and customers who have not visited choice of Spa for the past 12 months, aged 21 and above only.<br/></li><li>Offer is not valid for existing package holders.<br/></li><li>Valid for Singaporeans, PRs, EP, DP, SP or WP Holders.<br/></li><li>Valid from Mondays to Fridays from 11am to 9pm and Weekends from 10:30am to 8pm.<br/></li><li>Surcharge of $20 per pax applies for massage appointments on Public Holidays and facial appointments from 1 – 16 February 2018.<br/></li><li>Optional top-ups are available for additional services and will be borne by the customers.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1916",
+                    "catid": "19",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: Cell Rejuvenate Facial with Crystal Eye Treatment at $18",
+                        "OR Zen Body Massage with Back Polish at $25 (60-min, U.P. $200)"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2003_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Klook",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2003_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 January 2019.<br/></li><li>Promotion is only valid for Singtel Prestige customers.<br/></li><li>Valid only for redemption during birthday month and the month after.<br/></li><li>Key in Promo Code \"BDAYPRESTIGE\" upon checkout via Klook’s website (www.klook.com) or mobile App.<br/></li><li>Offer is only valid for online bookings made from Singapore with a minimum purchase of 2 tickets in the listed theme parks or attractions.<br/></li><li>Offer is only valid for the selected theme parks or attractions at www.klook.com/promo/sg-singtel-rewards.<br/></li><li>Offer is valid for one time use per user only.<br/></li><li>If the booking is cancelled, the coupon code will no longer be valid for use.<br/></li><li>For enquiries, please contact support@klook.com.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "2003",
+                    "catid": "20",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: $15 OFF theme park tickets",
+                        "Minimum purchase of 2 theme park tickets"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2004_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Banyan Tree Bintan",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2004_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 to 31 January 2019.<br/></li><li>Valid for redemption during birthday month and the month after only.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app to utilize the offer.<br/></li><li>Reservations have to be made via email at reservations-bintan@banyantree.com or call +62 770 693 100 and quote ''Singtel Prestige Customers Promo''.<br/></li><li>No walk-in reservations allowed.<br/></li><li>Promotion is valid only at Banyan Tree Bintan.<br/></li><li>Extension of validity is not permissible.<br/></li><li>For enquiries, please call +62 770 693 100  or email reservations-bintan@banyantree.com.<br/></li><li>Rates are quoted in US Dollar (USD) and per room per night.<br/></li><li>Rates are subject to 10% service charge and 11% government tax.<br/></li><li>Check-in time is 1500 hours and Check-out time is 1200 hours.<br/></li><li>In the event of no-show or early departure, the total rate of the confirmed room nights for entire stay shall be chargeable.<br/></li><li>Payments have to be made in Indonesian Rupiahs either in cash or credit card. The exchange rate applied is the prevailing official bank rate of the day.<br/></li><li>Cancellation made within 3 days prior to arrival will be subject to a charge of 100% of the entire stay.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "2004",
+                    "catid": "20",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 15% off Best Available Rates",
+                        "Plus enjoy 20% off Spa, Gallery and Golf at the resort!",
+                        "You'll also receive a complimentary birthday cake."
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2007_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Singtel Shop",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2007_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Promotion valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid only for redemption during the birthday month and the month after.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app or email to utilize this offer.<br/></li><li>Only valid for Singtel Prestige customers.<br/></li><li>Offer is only valid at Singtel shops (excluding Singtel Exclusive Retailers).<br/></li><li>Offer is valid for one-time utilization per customer only, while stocks last.<br/></li><li>Not valid with other promotions, discounts and vouchers.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "2007",
+                    "catid": "20",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 20% off 3rd party cases and screen protectors"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2008_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "DRx Medispa",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2008_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 Janaury 2019.<br/></li><li>Valid only for redemption during birthday month and the month after.<br/></li><li>All prices are subject to GST.<br/></li><li>Only valid for Singtel Prestige customers.<br/></li><li>Prior booking of appointment is required and kindly quote “Singtel Prestige” during booking.<br/></li><li>Booking: 6733 1555 / 6223 1555 / 6822 7035<br/></li><li>Customers will need to present the NRIC/Passport with original voucher or flash the offer on My Singtel app or email during the appointment.<br/></li><li>Each cardholder is limited to one redemption from Medispa & Trichology treatment.<br/></li><li>Valid for first-time customers and customers who have not visited for the past 12 months, aged 21 and above only.<br/></li><li>Valid for Singaporeans, PRs, EP, DP, SP or WP Holders.<br/></li><li>Not valid for package holders.<br/></li><li>Valid at Tong Building (Mondays to Saturdays from 10am to 8pm and Sundays from 10am to 6pm (Closed on public holidays)) and<br/></li><li>Wisma Atria outlet (Mondays to Sundays from 10am to 8pm (Closed on public holidays)).<br/></li><li>Not valid 1 week before Christmas and 1 week before Chinese New Year.<br/></li><li>Rescheduling must be made at least 24 hours prior to original booking.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "2008",
+                    "catid": "20",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: Intensive Purifying Facial at $68",
+                        "or Purifying Hair and Scalp Therapy at $38"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2101_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Klook",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2101_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid only for redemption during birthday month and the month after.<br/></li><li>Key in Promo Code \"BDAYREWARDS\" upon checkout via Klook’s website (www.klook.com) or mobile App.<br/></li><li>Offer is only valid for online bookings made from Singapore with a minimum purchase of 2 tickets in the listed theme parks or attractions.<br/></li><li>Offer is only valid for the selected theme parks or attractions at www.klook.com/promo/sg-singtel-rewards.<br/></li><li>Offer is valid for one time use per user only.<br/></li><li>If the booking is cancelled, the coupon code will no longer be valid for use.<br/></li><li>For enquiries, please contact support@klook.com.<br/></li><li>Promotion is non-transferable and any unused components are non-exchangeable or refundable for cash, products or other services.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "2101",
+                    "catid": "21",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: $10 OFF theme park tickets",
+                        "Minimum purchase of 2 theme park tickets"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2102_app.jpg",
+                    "buttontype": "Redemption",
+                    "systemid": "B",
+                    "catname": "Birthday Treats",
+                    "itemname": "Singtel Shop",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_B/Item_2102_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion valid from 1 January 2018 – 31 January 2019.<br/></li><li>Valid only for redemption during the birthday month and the month after.<br/></li><li>Present NRIC/Passport with original voucher or flash offer on My Singtel app or email to utilize this offer.<br/></li><li>Offer is only valid at Singtel shops (excluding Singtel Exclusive Retailers).<br/></li><li>Offer is valid for one-time utilization per customer only, while stocks last.<br/></li><li>Not valid with other promotions, discounts and vouchers.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and participating merchant reserve the rights to amend the terms and conditions without prior notice.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "2102",
+                    "catid": "21",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This birthday item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Birthday deal: 10% off 3rd party cases and screen protectors"
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "1",
+            "systemid": "M",
+            "cattype": "prestige",
+            "name": "Prestige Exclusives",
+            "details": "",
+            "items": [
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1085_app.jpg",
+                    "buttontype": "",
+                    "systemid": "M",
+                    "catname": "Prestige Exclusives",
+                    "itemname": "Amara Singapore",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1085_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid for stay from 1 May to 31 October 2018.<br/></li><li>Booking can be made via singapore.amarahotels.com with promo code 'SingtelPrestige' by 31 October 2018.<br/></li><li>Staying period is valid till 31 December 2018.<br/></li><li>Customers must present their valid Singtel Prestige membership on My Singtel app for verification upon check-in for verification purposes.<br/></li><li>Offer is applicable for Deluxe Rooms only, subject to availability.<br/></li><li>In the event of cancellation, modification or no-show, booking charges are strictly non-refundable.<br/></li><li>For room reservations or enquiries, please call +65 6879 2621 / 22 / 23.<br/></li><li>For F&B reservations or enquiries, please call call +65 6879 2607 or email: fnb.sg@amarahotels.com.<br/></li><li>Offer cannot be used in conjunction with group and corporate bookings, other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>All prices quoted are in Singapore dollars and subject to service charge and prevailing government taxes.<br/></li><li>Singtel and merchant shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserve the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "1085",
+                    "catid": "1",
+                    "buttontext": "",
+                    "outofstockmessage": "This presitge item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Save more than 35% on hotel stays and more",
+                        "$260 NETT (U.P. $588.50 NETT) for Mon - Thu",
+                        "$210 NETT (U.P. $588.50 NETT) for Fri - Sun",
+                        "Complimentary buffet breakfast for 2 persons at Element (U.P. $37.70 NETT per person)",
+                        "Complimentary minibar and late check out until 2pm",
+                        "20% off bill at Cafe Oriental, Element, EOTS and Tea Room (Mon-Sun)",
+                        "20% off ala carte menu at Silk Road (Valid on Sat and Sun)"
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1089_app.jpg",
+                    "buttontype": "OpenURL",
+                    "systemid": "M",
+                    "catname": "Prestige Exclusives",
+                    "itemname": "Colony, The Ritz-Carlton, Millenia Singapore",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1089_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Offer valid from 15 August 2018 to 31 October 2018.<br/></li><li>This offer is only valid for Singtel Prestige customers.<br/></li><li>Singtel Prestige customers have to login to the Singtel app and flash the Membership details page to enjoy the offer.<br/></li><li>This offer is applicable for dine-in only.<br/></li><li>Discount is not applicable with other ongoing promotions, complimentary vouchers or discounts.<br/></li><li>The discount is not exchangeable for cash.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "STApp"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "1089",
+                    "catid": "1",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "This presitge item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "10% off dining",
+                        "Simply flash your Membership Page on My Singtel app to enjoy the offer."
+                    ]
+                },
+                {
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1090_app.jpg",
+                    "buttontype": "",
+                    "systemid": "M",
+                    "catname": "Prestige Exclusives",
+                    "itemname": "A $INGAPORE CAROL",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_M/Item_1090_big.jpg",
+                    "isprestige": true,
+                    "tnc": {
+                        "details": "<ul><li>Singtel mobile customers can enjoy 20% off tickets during Early Bird sale and 10% off tickets during Public Sales period to A $ingapore Carol (all categories).<br/></li><li>Early Bird Sales is valid from 10 Sep 2018, 1000h to 3 Oct 2018, 2359h, subject to availability and while stocks last.<br/></li><li>Public Sales is valid from 4 Oct 2018, 1000h to 15 Dec 2018, 1930h, subject to availability and while stocks last.<br/></li><li>For online purchases, Singtel customers have to provide a valid Singtel mobile number at newsstand.singtel.com/Redeem/SGCarol in order to purchase the tickets.<br/></li><li>Singtel mobile customers will be directed to the dedicated ticketing webpage after their Singtel mobile number has been verified.<br/></li><li>For offline purchases, Singtel customers will have to flash their Singtel operator logo or latest bill at any authorized SISTIC outlet to enjoy the offer.<br/></li><li>Singtel Prestige customers exclusive. Enjoy an additional 10% discount on tickets during the Public Sale, subject to availability and while stocks last.<br/></li><li>For online purchases, Singtel Prestige customers have to provide a valid Singtel mobile number at newsstand.singtel.com/Redeem/SGCarol to purchase the tickets.<br/></li><li>Singtel Prestige customers will be directed to the dedicated ticketing webpage after their Singtel mobile number has been verified.<br/></li><li>Singtel Prestige customers will need to key in the promo code \"SGCAROL20\" to enjoy the additional discount.<br/></li><li>For offline purchases, Singtel Prestige customers have to flash their Singtel operator logo or latest bill at any authorized SISTIC outlet & quote \"SGCAROL20\"<br/></li><li>Tickets will be sold at the following outlets: https://www.sistic.com.sg/agents.<br/></li><li>Each transaction is limited to a maximum purchase of 20 tickets on SISTIC.<br/></li><li>Singtel will reserve the right to request for proof of eligibility and identity for verification.<br/></li><li>Tickets are non-transferable and non-exchangeable. There will be no replacement for lost or stolen tickets.<br/></li><li>Singtel's decisions on all matters pertaining to the promotion are final and binding.<br/></li><li>No further correspondence regarding the promotion, terms and conditions or any decision made by Singtel will be entertained.<br/></li><li>Singtel reserves the right to partially or completely cancel, terminate or suspend the promotion for any reason without any liability whatsoever.<br/></li><li>Singtel shall not be liable to any person in any way for any loss/damage howsoever arising from or in connection with the promotion and/or any of the tickets.<br/></li><li>Singtel reserves the right from time to time to amend or delete the terms and conditions and/or any of the instructions at its discretion without prior notice.<br/></li><li>Any such changes shall be binding and will take effect immediately upon such amendment, change or deletion.<br/></li><li>Participation in this promotion shall constitute acceptance of these Terms and any amendment(s) thereof.<br/></li><li>For full Singtel terms and conditions, please visit www.singtel.com/terms-general.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "STApp"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "prestigelabel": "PRESTIGE",
+                    "itemid": "1090",
+                    "catid": "1",
+                    "buttontext": "",
+                    "outofstockmessage": "This presitge item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Exclusive for Singtel Prestige customers: 20% OFF tickets",
+                        "Join Sebastian Tan (AKA Broadway Beng) and a star-studded cast this holiday season in \"A $ingapore Carol\", a heart-warming and hilarious take on Charles Dickens' classic tale.",
+                        "Singtel Prestige customers have to provide a valid Singtel mobile number at newsstand.singtel.com/Redeem/SGCarol in order to purchase the tickets.",
+                        "Once the mobile number has been verified, customers will be directed to the dedicated SISTIC ticketing webpage and will need to key in the Singtel Prestige promotional code to enjoy the discounted ticket price.",
+                        "Offer ends 15 Dec 2018, while stocks last!"
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "4",
+            "systemid": "L",
+            "cattype": "dining",
+            "name": "Dining",
+            "details": "",
+            "items": [
+                {
+                    "buttontype": "RedemptionPhysical",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_4069_app.jpg",
+                    "systemid": "L",
+                    "catname": "Dining",
+                    "itemname": "$1 for 2 Original Glazed Doughnuts from Krispy Kreme!",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_4069_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 to 14 March 2018.<br/></li><li>Customers must login to their Singtel OnePass on their mobile phones to flash the promotion page upon purchasing at the counter.<br/></li><li>Limited to the first 10,000 redemptions, while stocks last.<br/></li><li>Offer is limited to two (2) doughtnuts per customer per transaction.<br/></li><li>Offer is only valid for Original Glazed Doughnuts.<br/></li><li>Selected doughnuts are subject to availability and while stocks last.<br/></li><li>Offer is applicable to the following selected Krispy Kreme outlets.<br/></li><li>#01-133 Northpoint City, #B2-K2 VivoCity, #B1-K6 Paragon, #01-419/420 Suntec City Mall, #01-31 Jurong Point Shopping Centre and #02-40A/B Great World City.<br/></li><li>Visit krispykreme.sg/stores for outlet listings and operating hours.<br/></li><li>Screen captures and multiple devices in the same transaction will not be accepted.<br/></li><li>*5% Dash Cashback promotion is only applicable to compatible Anrdoid NFC-enabled phones by Visa payWave payments only.<br/></li><li>Dash Cashback is capped at $2.50 per transaction.<br/></li><li>To enjoy the 5% Dash Cashback, full payment must be made with Singtel Dash.<br/></li><li>Singtel Dash Cashback Terms and Conditions apply. Visit dash.com.sg/terms for full details.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/FCFS-246.png",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "SendPhysicalVoucher"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "itemid": "4069",
+                    "catid": "4",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Satisfy your sweet cravings with Krispy Kreme! Enjoy 2 delectable Original Glazed Doughnuts at just $1! Limited to the first 10,000 redemptions before 14 March, while stocks last.",
+                        "Plus, enjoy 5% Cashback when you pay with Singtel Dash by Visa payWave*.",
+                        "Simply flash this promotion page to enjoy the offer at selected Krispy Kreme outlet before it runs out!"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1257_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2N3pVYR",
+                    "catname": "Dining",
+                    "itemname": "3 Crab Delicacy Seafood Restaurant",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1257_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through the “Book now” button on https://bit.ly/2Q3BVYs<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid till 30 November 2018 only.<br/></li><li>Limited to the first 570 reservations only, while stocks last.<br/></li><li>Valid at both outlets 50 Tiong Bahru Road, Link Hotel and 21 Teck Chye Terrace.<br/></li><li>Valid only for dine-in on that day itself.<br/></li><li>Not valid in conjunction with other promotions/ privileges/ vouchers.<br/></li><li>Limited to one redemption per table.<br/></li><li>In the event of more than 1 crab ordered per reservation, only the lowest priced crab will be applicable for the promotion.<br/></li><li>Non-exchangeable for cash.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1257",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Enjoy 1 FREE Crab worth $70++ with no minimum spend!",
+                        "Simply make a reservation via the \"Book now\" button and dine by 30 November 2018. Offer valid while stocks last."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1263_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2QKX7Tx",
+                    "catname": "Dining",
+                    "itemname": "Chili's American Grill & Bar",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1263_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through hungrygowhere.com/singtel & Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid across all 3 outlets (Resorts World Sentosa, Tanglin Mall and Clarke Quay Central).<br/></li><li>Valid all day on weekdays & weekends except on the eve of and on Public holidays.<br/></li><li>Promotion is valid to the first 2,000 redemptions while stocks last.<br/></li><li>Promotion is valid between 1 October to 31 December 2018.<br/></li><li>Only one bill is allowed per table.<br/></li><li>This offer is not valid in conjunction with other discounts, set meals, offers, promotions, vouchers, & privilege cards.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1263",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "1-for-1 mains",
+                        "Head down to Chili’s American Grill & Bar that offers some of the best American cusine in Singapore with your family for an exclusive 1-for-1 mains. Pick any of your favourite item from the range of Hand-crafter burgers, Sizzling Fajitas, and Baby Back Ribs.",
+                        "Book Now on HungryGoWhere before 31 December 2018!"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1264_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2PPQxtE",
+                    "catname": "Dining",
+                    "itemname": "Copthorne King's Hotel - Princess Terrace",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1264_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through hungrygowhere.com/singtel & Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid for dine-in on weekdays & weekends except on Public holidays.<br/></li><li>Promotion is only limited to the first 690 customers for lunch/dinner.<br/></li><li>Promotion is valid between 1 October to 31 December 2018.<br/></li><li>Only one bill is allowed per table.<br/></li><li>Prices are subjected to service charge/GST.<br/></li><li>This offer is not valid in conjunction with other discounts, set meals, offers, promotions, vouchers, & privilege cards.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1264",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "50% lunch or dinner buffet",
+                        "Indulge in one of the Singapore’s Best-loved Penang buffet since the early 1970s at Princess Terrace which serves a mouth-watering spread of authentic delicacies as each dish is preserved in the rich Penang food culture and heritage.",
+                        "Book Now on HungryGoWhere before 31 December 2018!"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1181_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "http://www.hungrygowhere.com/singtel/?utm_source=singtel%20nov%20edm&utm_medium=web#deal-details-1",
+                    "catname": "Dining",
+                    "itemname": "Emperor Pot",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1181_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through HungryGoWhere and Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Customers must show Singtel operator logo on their mobile phones or latest Singtel bill to redeem offer upon billing.<br/></li><li>Valid during weekdays from 14 December 2017 to 9 January 2018.<br/></li><li>Valid only for dine-in on that day itself.<br/></li><li>Promotion is limited to one redemption per table.<br/></li><li>Minimum 2 pax and up to 10 pax to enjoy the promotion.<br/></li><li>Not valid in conjunction with other promotions/ privileges/ vouchers.<br/></li><li>Non-exchangeable for cash.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1181",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "25% off Emperor Set",
+                        "Book now on hungrygowhere.com/singtel before 9 January 2018"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1261_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2x2wd0i",
+                    "catname": "Dining",
+                    "itemname": "Harry's",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1261_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through http://hungrygowhere.com/singtel & Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Customers must show Singtel operator logo on their mobile phones to redeem offer upon billing.<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid daily till 31 December 2018.<br/></li><li>Discount is only applicable on items under Burgers & Sandwich, Asian Palate, Mains and Pastas only.<br/></li><li>Complimentary choice of one soft drink (Sodas) per main.<br/></li><li>No splitting of bills/reservation/table.<br/></li><li>Non-exchangeable for cash.<br/></li><li>Image used is for illustration purpose only.<br/></li><li>Not applicable on Eve of and Public Holidays.<br/></li><li>Minimum 2 pax to dine, and only applicable for dine in only.<br/></li><li>Cannot be used in conjunction with other promotions, discounts or vouchers.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1261",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "50% off mains and a complimentary soft drink",
+                        "Enjoy your favorite dishes using Harry’s own signature twist to bring together classic favourites and new Asian flavours. Indulge in their signature Jazz Burger or a hearty Curried Lamb Shank that features irresistible local flavours to go with an ice-cold beer!",
+                        "*Applicable Mains include: Harry’s Jazz Burger, Honey Bacon Club, Steak & Eggs, Dry-Rubbed Baby Back Ribs, Chicken Parmigiana, Beer Battered Fish & Chips, Breakfast of Champions, Curried Lamb Shank, Chicken Tikka Masala, Kurobuta Pork Chop Rice, Seafood Spaghettini “Mee Goreng”, Prawn & Seaweed Aglio Olio, Chicken & Bacon Carbonara, Meatball Bolognese, Caprese.",
+                        "*Each order comes with a complimentary soft drink",
+                        "Book Now on HungryGoWhere before 31 December 2018!"
+                    ]
+                },
+                {
+                    "buttontype": "",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1253_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "NA",
+                    "catname": "Dining",
+                    "itemname": "Koji Sushi Bar",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1253_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 September 2018 to 31 January 2019.<br/></li><li>Present the Singtel operator logo on your mobile phone or your latest Singtel bill upon payment.<br/></li><li>Promotion is valid at 3 Pickering Street, Nankin Row #01-42 (Tel: 6225 6125 ) and Chevron House #01-32 (Tel: 6532 2805).<br/></li><li>Promotion is valid daily only during dinner service, including Omakase bookings.<br/></li><li>Reservations must be made for Omakase.<br/></li><li>Offer is not valid on eve of Public Holiday, Public Holiday and other special occasions.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1253",
+                    "catid": "1",
+                    "buttontext": "",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "10% off total dinner bill including Omakase"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1262_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2Oyw2RW",
+                    "catname": "Dining",
+                    "itemname": "M Hotel - The Buffet",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1262_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through hungrygowhere.com/singtel & Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid all day on weekdays & weekends except on the eve of and on Public holidays.<br/></li><li>Children pricing are not eligible for this promotion.<br/></li><li>Promotion while stocks last.<br/></li><li>Promotion is valid between 1 October to 31 December 2018.<br/></li><li>Only one bill is allowed per table.<br/></li><li>This offer is not valid in conjunction with other discounts, set meals, offers, promotions, vouchers, & privilege cards.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1262",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "50% off International Buffet Lunch or Steamboat Buffet Dinner",
+                        "Enjoy a sumptuous International buffet for lunch featuring local and international favourites and come back in the evening for the Steamboat Buffet Dinner showcasing premium spread of seafood.",
+                        "Book Now on HungryGoWhere before 31 December 2018!"
+                    ]
+                },
+                {
+                    "buttontype": "",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1254_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "NA",
+                    "catname": "Dining",
+                    "itemname": "Shunjuu Izakaya",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1254_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 September 2018 to 31 January 2019.<br/></li><li>Present the Singtel operator logo on your mobile phone or your latest Singtel bill upon payment.<br/></li><li>Promotion is valid at 30 Robertson Quay, #01-15, Riverside View.<br/></li><li>For enquiries, please call 6887 3577.<br/></li><li>Promotion is valid for during lunch service.<br/></li><li>Offer is not valid on eve of Public Holiday, Public Holiday and other special occasions.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1254",
+                    "catid": "1",
+                    "buttontext": "",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "10% off total lunch bill"
+                    ]
+                },
+                {
+                    "buttontype": "RedemptionPhysical",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_4042_app.jpg",
+                    "systemid": "L",
+                    "catname": "Dining",
+                    "itemname": "TEST: Fully redeem",
+                    "outofstock": true,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_4042_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Valid for the first XXXX redemptions from XXXXX - XXXXX 2015, whilst stocks last.<br/></li><li>Only 1 submission is allowed per customer per Dining category, every 2 (two) months.<br/></li><li>All redemptions submitted and/or performed cannot be cancelled or withdrawn or amended.<br/></li><li>Voucher will be mailed to your Singapore-registered address of your designated billing account with Singtel within 14 working days upon successful redemption.<br/></li><li>Each voucher entitles to one (1) small corporate bag of XXXX only.<br/></li><li>Selected flavours are XXXXXX, XXXXX, and XXXXX only.<br/></li><li>Vouchers are valid for redemption till XXXXXXXX 2016 at all XXXXXXX shops.<br/></li><li>Only physical printed vouchers are valid for redemption and accepted by Garrett Popcorn shops' staff.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion/redemption.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or CaramelCrisp Pte Ltd may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/FCFS-246.png",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "SendPhysicalVoucher"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "itemid": "4042",
+                    "catid": "4",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Get yourself some deliciously handcrafted XXXXXX this festive season! Limited to the first XXXX customers. Hurry, redeem a bag of your favourite XXXXXXX & present your voucher at any of the participating outlets, whilst stocks last! This is a first come first serve testing redemption campaign. This campaign has been fully redeemed."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1265_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://bit.ly/2NnJrj6",
+                    "catname": "Dining",
+                    "itemname": "The Boiler",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1265_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Reservations must be made through HungryGoWhere & Singtel customers must select “Singtel Exclusive” promotion.<br/></li><li>Only Singtel Postpaid numbers can enjoy the promotion. Prepaid numbers are not allowed.<br/></li><li>Valid daily from 1 October to 31 December 2018 excluding block-out dates, Eve of and Public holidays.<br/></li><li>Limited redemptions only, while stocks last.<br/></li><li>Valid only for dine-in on that day itself.<br/></li><li>Not valid in conjunction with other promotions/ privileges/ vouchers.<br/></li><li>Image used is for illustration purpose only.<br/></li><li>Prices are subjected to 7% GST and 10% service charge.<br/></li><li>Non-exchangeable for cash.<br/></li><li>The Management reserves the right to change the terms and conditions or cancel any promotions at any time without notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value at its own discretion without prior notice.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1265",
+                    "catid": "1",
+                    "buttontext": "Book Now",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "57% off Signature Duo Bag at $22++ only (U.P $52++)",
+                        "Bring along your buddy for a fresh seafood feast. Singtel customers can enjoy more than 50% off their Signature Boiler's Duo Bag at just $22 for sharing of 2 pax with a variation of seafood such as prawns, mussels, clams, sausages, corn and bun.",
+                        "Book Now on HungryGoWhere before 31 December 2018!"
+                    ]
+                },
+                {
+                    "buttontype": "",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1255_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "NA",
+                    "catname": "Dining",
+                    "itemname": "Uya Unagi Restaurant",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_1255_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 September 2018 to 31 January 2019.<br/></li><li>Present the Singtel operator logo on your mobile phone or your latest Singtel bill upon payment.<br/></li><li>Promotion is only on Monday to Thursday, for lunch and dinner service.<br/></li><li>Promotion is valid at Wheelock Place, #02-15/16.<br/></li><li>Promotion is only on Monday to Thursday, for lunch and dinner service.<br/></li><li>Offer is not valid on eve of Public Holiday, Public Holiday and other special occasions.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "1255",
+                    "catid": "1",
+                    "buttontext": "",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "10% off total bill"
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "3",
+            "systemid": "D",
+            "cattype": "entertainment",
+            "name": "Entertainment",
+            "details": "",
+            "items": [
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5110_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://newsstand.singtel.com/Redeem/SGCarol",
+                    "catname": "Entertainment",
+                    "itemname": "A $INGAPORE CAROL",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5110_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Singtel mobile customers can enjoy 20% off tickets during Early Bird sale and 10% off tickets during Public Sales period across all ticket categories.<br/></li><li>Early Bird Sales is valid from 10 Sep 2018, 1000h to 3 Oct 2018, 2359h, subject to availability and while stocks last.<br/></li><li>Public Sales is valid from 4 Oct 2018, 1000h to 15 Dec 2018, 1930h, subject to availability and while stocks last.<br/></li><li>For online purchases, Singtel customers have to provide a valid Singtel mobile number and claim a promotional code in order to purchase the tickets.<br/></li><li>Singtel mobile customers will be directed to the dedicated ticketing site after their Singtel mobile number has been verified.<br/></li><li>For offline purchases, Singtel customers will have to flash their Singtel operator logo or latest bill at any authorized SISTIC outlet to enjoy the offer.<br/></li><li>Tickets will be sold at the following outlets: https://www.sistic.com.sg/agents.<br/></li><li>Each transaction is limited to a maximum purchase of 20 tickets on SISTIC.<br/></li><li>Singtel will reserve the right to request for proof of eligibility and identity for verification.<br/></li><li>Tickets are non-transferable and non-exchangeable. There will be no replacement for lost or stolen tickets.<br/></li><li>Singtel’s decisions on all matters pertaining to the promotion are final and binding.<br/></li><li>No further correspondence regarding the promotion, terms and conditions or any decision made by Singtel will be entertained.<br/></li><li>Singtel reserves the right to partially or completely cancel, terminate or suspend the promotion for any reason without any liability whatsoever.<br/></li><li>Singtel shall not be liable to any person in any way for any loss/damage howsoever arising from or in connection with the promotion and/or any of the tickets.<br/></li><li>Singtel reserves the right from time to time to amend or delete the terms and conditions and/or any of the instructions at its discretion without prior notice.<br/></li><li>Any such changes shall be binding and will take effect immediately upon such amendment, change or deletion.<br/></li><li>Participation in this promotion shall constitute acceptance of these Terms and any amendment(s) thereof.<br/></li><li>For full Singtel terms and conditions, please visit www.singtel.com/terms-general.html<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5110",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Exclusive for Singtel mobile customers: 20% OFF tickets",
+                        "Join Sebastian Tan (AKA Broadway Beng) and a star-studded cast this holiday season in \"A $ingapore Carol\", a heart-warming and hilarious take on Charles Dickens' classic tale.",
+                        "Hurry, limited tickets available. Early bird offer ends on 3 October ’18."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5101_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "http://www.bbouncestudio.com/",
+                    "catname": "Entertainment",
+                    "itemname": "BBOUNCE Studio",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5101_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 July to 30 November 2018.<br/></li><li>Present the Singtel operator logo on your mobile phone or your latest Singtel bill upon payment.<br/></li><li>Valid for new customers aged 18 years and above, Singaporeans, PRs, EP and DP Holders.<br/></li><li>Prior reservation is required, subject to availability.<br/></li><li>Please call or email 3 days in advance and quote ‘Singtel Rewards 1-for-1 at $35’ promotion when making reservation.<br/></li><li>Cancellation of slot reserved must be made at least 1 day before.<br/></li><li>The two (2)  fitness classes must be utilized within one (1) month from your first visit.<br/></li><li>Promotion is valid at The Centrepoint #06-09.<br/></li><li>For enquiries, please call 6262 2272 or email bbouncestudio@gmail.com.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5101",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "1-for-1 fitness classes at just $35 (U.P.$70)"
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5106_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://newsstand.singtel.com/Redeem/GeronimoStilton",
+                    "catname": "Entertainment",
+                    "itemname": "Geronimo Stilton Live In The Kingdom Of Fantasy 2018",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5106_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Singtel mobile customers can enjoy 15% off tickets to Geronimo Stilton – Live On Stage.<br/></li><li>Promotion is valid from 20 July 2018, 1000h to 11 November 2018, subject to availability, while stocks last.<br/></li><li>For online purchases, Singtel customers have to provide a valid Singtel mobile number and claim a promotional code in order to purchase the tickets.<br/></li><li>Singtel mobile customers will be directed to the dedicated ticketing site after their Singtel mobile number has been verified.<br/></li><li>For offline purchases, Singtel customers will have to flash their Singtel operator logo or latest bill at any authorized SISTIC outlet to enjoy the sale.<br/></li><li>Tickets will be sold at the following outlets: https://www.sistic.com.sg/agents.<br/></li><li>Each transaction is limited to a maximum purchase of 20 tickets on SISTIC.<br/></li><li>Singtel will reserve the right to request for proof of eligibility and identity for verification.<br/></li><li>Tickets are non-transferable and non-exchangeable. There will be no replacement for lost or stolen tickets.<br/></li><li>Singtel’s decisions on all matters pertaining to the promotion are final and binding.<br/></li><li>No further correspondence regarding the promotion, terms and conditions or any decision made by Singtel will be entertained.<br/></li><li>Singtel reserves the right to partially or completely cancel, terminate or suspend the promotion for any reason without any liability whatsoever.<br/></li><li>Singtel shall not be liable to any person in any way for any loss/damage howsoever arising from or in connection with the promotion and/or any of the tickets.<br/></li><li>Singtel reserves the right from time to time to amend or delete the terms and conditions and/or any of the instructions at its discretion without prior notice.<br/></li><li>Any such changes shall be binding and will take effect immediately upon such amendment, change or deletion.<br/></li><li>Participation in this promotion shall constitute acceptance of these Terms and any amendment(s) thereof.<br/></li><li>For full Singtel terms and conditions, please visit www.singtel.com/terms-general.html<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5106",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Exclusive for Singtel mobile customers: 15% OFF tickets",
+                        "Get your tickets before 11 November 2018. Hurry, limited tickets available."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5108_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "http://hlbalancedlifeyoga.com.sg/",
+                    "catname": "Entertainment",
+                    "itemname": "MARIGOLD HL Balanced Life Yoga 2018",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5108_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid till 10 October 2018.<br/></li><li>To enjoy the offer, visit hlbalancedlifeyoga.com.sg and enter the promo code “STYG15” upon checkout.<br/></li><li>Offer is only valid for the first 200 Singtel customers.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5108",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Singtel Exclusive: $15 per participant (U.P. $29)",
+                        "Calling all Yogis and families! Come join MARIGOLD HL Milk for an evening of fun activities as HL Balanced Life Yoga 2018 makes its way to Empress Lawn on 20th October 2018. Go beyond our evening yoga session, as the event brings to you other activities such as food trucks, fringe activities and even a movie screening of Disney’s PIXAR COCO to top off your weekend evening!",
+                        "Date/Time: 20 October 2018 (Saturday), 5pm to 10pm.",
+                        "Venue: Empress Lawn",
+                        "Promo code: STYG15"
+                    ]
+                },
+                {
+                    "buttontype": "Redemption",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5055_app.jpg",
+                    "systemid": "L",
+                    "catname": "Entertainment",
+                    "itemname": "National Gallery Singapore",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5055_big.jpg",
+                    "isprestige": false,
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/FCFS-246.png",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "Email"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "itemid": "5055",
+                    "catid": "5",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "We are giving away 4 tickets to the first 200 customers to the exhibition, Minimalism at National Gallery Singapore.",
+                        "Simply redeem now and eligible customers will receive an email from us on the tickets collection details."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5109_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://music.singtel.com/index.php?r=redeem/neonlights",
+                    "catname": "Entertainment",
+                    "itemname": "NEON LIGHTS FESTIVAL 2018",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5109_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>10% discount to Neon Lights Festival is exclusive to Singtel mobile customers only.<br/></li><li>Promotion is valid from 24 August 2018, 0900h, subject to availability of allocated tickets and while stocks last.<br/></li><li>Offer is only applicable for online purchase.<br/></li><li>Singtel customers have to provide a valid Singtel mobile number at singtel.com/neonlights to claim a promo code.<br/></li><li>Each transaction is limited to a purchase of a maximum of 4 tickets.<br/></li><li>Singtel will reserve the right to request for proof of eligibility and identity for verification.<br/></li><li>Tickets are non-transferable and non-exchangeable. There will be no replacement for lost or stolen tickets.<br/></li><li>Singtel’s decisions on all matters pertaining to the promotion are final and binding.<br/></li><li>No further correspondence regarding the promotion, terms and conditions or any decision made by Singtel will be entertained.<br/></li><li>Singtel reserves the right to partially or completely cancel, terminate or suspend the promotion for any reason without any liability whatsoever.<br/></li><li>Singtel shall not be liable to any person in any way for any loss/damage howsoever arising from or in connection with the promotion and/or any of the tickets.<br/></li><li>Singtel reserves the right from time to time to amend or delete the terms and conditions and/or any of the instructions at its discretion without prior notice.<br/></li><li>Any such changes shall be binding and will take effect immediately upon such amendment, change or deletion.<br/></li><li>Participation in this promotion shall constitute acceptance of these Terms and any amendment(s) thereof.<br/></li><li>For full Singtel terms and conditions, please visit www.singtel.com/terms-general.html.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5109",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Exclusive for Singtel mobile customers: 10% OFF tickets",
+                        "Come join us at Singapore’s premier outdoor music and arts festival, Neon Lights Festival 2018. Anticipate a stellar line-up of international and local music acts with an eclectic array of arts programmes and activities available for all ages.",
+                        "Event date: 9 November (Friday) to 11 November (Sunday)",
+                        "Event venue: Fort Gate, Fort Canning Park",
+                        "Claim your unique promo code by 8 Nov, 11:59pm. Hurry, limited tickets available."
+                    ]
+                },
+                {
+                    "buttontype": "LuckyDraw",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5010_app.jpg",
+                    "systemid": "L",
+                    "catname": "Entertainment",
+                    "itemname": "Stand a chance to win tickets to the Opening Ceremony of 28th SEA Games Singapore 2015!",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5010_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Entry must be submitted from 14 to 21 May 2015. Draw will be held on 25 May 2015.<br/></li><li>Only 1 submission is allowed per customer per Entertainment category.<br/></li><li>All entries submitted cannot be cancelled, withdrawn and/or amended.<br/></li><li>Winners will be notified by SMS within 7 days from the draw date.<br/></li><li>Additional chance is awarded to the active service with the longest tenure (including Mobile, Home Broadband and mio TV).<br/></li><li>Prize must be claimed on 5 June 2015.<br/></li><li>Prize must be taken as provided and is neither transferable nor exchangeable for cash or other prizes.<br/></li><li>In the event of any dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion/redemption.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/lucky-draw-246.png",
+                    "luckydraw": true,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5010",
+                    "catid": "5",
+                    "buttontext": "Take Part Now",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Happening once again in Singapore after a 22-year long hiatus, here's your chance to catch the spectacular opening ceremony of the 28th SEA Games Singapore 2015,  at the Singapore Sports Hub on 5 June 2015! 150 pairs of Category 1 tickets to be won!",
+                        "Plus, existing customers get an additional 1 chance for every 5 years tenure with Singtel."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5105_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://newsstand.singtel.com/Redeem/MoscowCircus",
+                    "catname": "Entertainment",
+                    "itemname": "THE GREAT MOSCOW CIRCUS",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_5105_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Singtel mobile customers can enjoy 15% off tickets (Premium, A to C Reserve categories) to The Great Moscow Circus.<br/></li><li>Promotion is valid from 13 July 2018, 1000h to 18 November 2018, 2359h, subject to availability, while stocks last.<br/></li><li>For online purchases, Singtel customers have to provide a valid Singtel mobile number and claim a promotional code in order to purchase the tickets.<br/></li><li>Singtel mobile customers will be directed to the dedicated ticketing site after their Singtel mobile number has been verified.<br/></li><li>For offline purchases, Singtel customers will have to flash their Singtel operator logo or latest bill at any authorized SISTIC outlet to enjoy the sale.<br/></li><li>Tickets will be sold at the following outlets: https://www.sistic.com.sg/agents.<br/></li><li>Each transaction is limited to a maximum purchase of 20 tickets on SISTIC.<br/></li><li>Singtel will reserve the right to request for proof of eligibility and identity for verification.<br/></li><li>Tickets are non-transferable and non-exchangeable. There will be no replacement for lost or stolen tickets.<br/></li><li>Singtel’s decisions on all matters pertaining to the promotion are final and binding.<br/></li><li>No further correspondence regarding the promotion, terms and conditions or any decision made by Singtel will be entertained.<br/></li><li>Singtel reserves the right to partially or completely cancel, terminate or suspend the promotion for any reason without any liability whatsoever.<br/></li><li>Singtel shall not be liable to any person in any way for any loss/damage howsoever arising from or in connection with the promotion and/or any of the tickets.<br/></li><li>Singtel reserves the right from time to time to amend or delete the terms and conditions and/or any of the instructions at its discretion without prior notice.<br/></li><li>Any such changes shall be binding and will take effect immediately upon such amendment, change or deletion.<br/></li><li>Participation in this promotion shall constitute acceptance of these Terms and any amendment(s) thereof.<br/></li><li>For full Singtel terms and conditions, please visit www.singtel.com/terms-general.html<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5105",
+                    "catid": "3",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "15% off tickets (Premium, A to C Reserve categories)",
+                        "Catch the world's most dangerous & death-defying acts - don't miss this astonishing, breath-taking entertainment event for the whole family!"
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "3",
+            "systemid": "L",
+            "cattype": "movie",
+            "name": "Movie",
+            "details": "",
+            "items": [
+                {
+                    "buttontype": "",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_3029_app.jpg",
+                    "systemid": "L",
+                    "catname": "Movie",
+                    "itemname": "Enjoy 1-for-1 movie deals at The Cathay Cineplex (Handy Road)!",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_3029_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Offer is valid from 8 September 2016 every Thursday, while stocks last.<br/></li><li>Present the Singtel operator logo on your mobile phone or your latest Singtel bill at The Cathay Cineplex Box Office to enjoy the offer.<br/></li><li>Not applicable to Singtel Prepaid or Corporate BRN customers.<br/></li><li>Offer is limited to one(1) free movie ticket per customer per day when customer pay for one (1) movie ticket at regular price, while stocks last.<br/></li><li>Promotion is valid to the first 500 customers every Thursday at The Cathay Cineplex, 2 Handy Road.<br/></li><li>1-for-1 must be purchased for the same movie and show date/time.<br/></li><li>Not valid for 3D movies, film festivals, Ultima and Elite Club seats, movies screened at the Platinum Movie Suites, movie marathons and special priced tickets.<br/></li><li>Not valid with other offers, privileges or promotions.<br/></li><li>Not valid for online / kiosk / mobile / corporate bookings.<br/></li><li>Not exchangeable or refundable for cash, products or other services.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to replace the coupon with a similar value product at its own discretion without prior notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final.  No correspondence will be entertained.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel reserves the right to amend these terms and conditions of the promotion from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and Cathay Cineplexes Pte Ltd, and/or any other third parties may apply in addition to these terms.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/FCFS-246.png",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "Email"
+                        },
+                        {
+                            "retrievalmode": "SendPhysicalVoucher"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "itemid": "3029",
+                    "catid": "3",
+                    "buttontext": "",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Catch an exciting movie every Thursday at The Cathay Cineplex (Handy Road). Simply show your Singtel operator logo or your latest Singtel bill to purchase one ticket & get the other free! Limited to the first 500 customers every Thursday, whilst stocks last."
+                    ]
+                },
+                {
+                    "buttontype": "LuckyDraw",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_3048_app.jpg",
+                    "systemid": "L",
+                    "catname": "Movie",
+                    "itemname": "The Grinch",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_3048_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Entry must be submitted from 1 to 18 November 2018. 100 winners will be drawn via an audited lucky draw on 20 November 2018.<br/></li><li>Only 1 submission is allowed per invited customer. Each submission is only entitled to one lucky draw chance.<br/></li><li>All entries submitted cannot be cancelled, withdrawn and/or amended.<br/></li><li>Each winner will receive one (1) pair of movie tickets to the The Grinch movie screening on 24 November 2018.<br/></li><li>Only winners will be notified via SMS with the movie screening event details within 14 working days upon the conducted lucky draw.<br/></li><li>Winners are to present the SMS during the actual movie screening date and venue for registration to collect their prize.<br/></li><li>To authorize a representative to collect on behalf or transfer of prize, the member’s and representative's identity cards must be presented upon collection.<br/></li><li>All redemptions submitted and/or performed cannot be cancelled or withdrawn or amended.<br/></li><li>The Prize is not exchangeable and redeemable for cash or other prizes. There will be no replacement for lost or stolen prizes.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion/redemption.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or Cathay Cineplexes may apply in addition to these terms.<br/></li><li>In event of dispute, the decision of Singtel is final. No correspondence will be entertained.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (\"General Terms\") and may be amended from time to time.<br/></li><li>For other lucky draw terms and conditions, please visit singtel.com/Thegrinch.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/lucky-draw-246.png",
+                    "luckydraw": true,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "3048",
+                    "catid": "3",
+                    "buttontext": "Take Part Now",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Win a pair of tickets to the movie screening on 24 November.",
+                        "For their eight fully animated feature, Illumination and Universal Pictures present The Grinch based on Dr. Seuss’ beloved holiday classic. The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl’ generous holiday spirit. Funny, heart-warming and visually stunning, it’s a universal story about the spirit of Christmas and the indomitable power of optimism.",
+                        "Be one of the lucky 100 customers to stand a chance to win. Simply participate by 18 November 2018."
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "5",
+            "systemid": "D",
+            "cattype": "shopping",
+            "name": "Shopping",
+            "details": "",
+            "items": [
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_6015_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "http://appdeals-singtel.digitalturbine.com/",
+                    "catname": "Shopping",
+                    "itemname": "appdeals X SINGTEL",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_6015_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>For more information on individual deals, please refer to the terms and conditions within the appdeals x singtel app.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "6015",
+                    "catid": "5",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Exciting deals await when you download the app today.",
+                        "Food: $12 OFF with a $24 spend on Honestbee food delivery.",
+                        "Home: $30 OFF with a $300 spend on HipVan.",
+                        "Lifestyle: 14 days FREE trial of the Entertainer."
+                    ]
+                },
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_6016_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://smartmall.com.sg/pages/singtel",
+                    "catname": "Shopping",
+                    "itemname": "SmartMall",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_6016_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid from 1 August to 31 October 2018.<br/></li><li>To enjoy the offer via mobile app, visit smartmall.com.sg and enter the promo code “SINGTELSMART” upon checkout.<br/></li><li>Offer cannot be used in conjunction with other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserve the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserve the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "6016",
+                    "catid": "5",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Up to 60% off and exclusive offers",
+                        "FREE Limited Edition Prolink Wired mouse (worth $10.90) for any purchase &",
+                        "FREE Prolink USB Charger with IntelliSense (worth $59.00) with purchase of $500 and above"
+                    ]
+                }
+            ]
+        },
+        {
+            "catid": "4",
+            "systemid": "D",
+            "cattype": "travel",
+            "name": "Travel",
+            "details": "",
+            "items": [
+                {
+                    "buttontype": "OpenURL",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_4038_app.jpg",
+                    "systemid": "D",
+                    "bookingurl": "https://singapore.amarahotels.com/",
+                    "catname": "Travel",
+                    "itemname": "Amara Singapore",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_D/Item_4038_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Promotion is valid for stay from 1 May to 31 October 2018.<br/></li><li>Booking can be made via singapore.amarahotels.com with promo code 'SingtelRewards' by 31 October 2018.<br/></li><li>Staying period is valid till 31 December 2018.<br/></li><li>Singtel operator logo or latest bill has to be presented upon check-in for verification purposes.<br/></li><li>Offer is applicable for Deluxe Rooms only, subject to availability.<br/></li><li>In the event of cancellation, modification or no-show, booking charges are strictly non-refundable.<br/></li><li>For room reservations or enquiries, please call +65 6879 2621 / 22 / 23.<br/></li><li>For F&B reservations or enquiries, please call call +65 6879 2607 or email: fnb.sg@amarahotels.com.<br/></li><li>Offer cannot be used in conjunction with group and corporate bookings, other promotions, discounts, packages purchased or vouchers redemption.<br/></li><li>All prices quoted are in Singapore dollars and subject to service charge and prevailing government taxes.<br/></li><li>Singtel and merchant shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel and merchant reserve the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singtel and merchant reserves the right to amend these terms and conditions of this promotion from time to time without prior notice and without any liability.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "luckydraw": false,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "4038",
+                    "catid": "4",
+                    "buttontext": "Find Out More",
+                    "outofstockmessage": "",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Save more than 30% on hotel stays and more",
+                        "Promo Code: SingtelRewards",
+                        "$280 NETT (U.P. $588.50 NETT) for Mon - Thu",
+                        "$230 NETT (U.P. $588.50 NETT) for Fri - Sun",
+                        "Complimentary buffet breakfast for 2 persons at Element (U.P. $37.70 NETT per person)",
+                        "Complimentary minibar and late check out until 2pm",
+                        "20% off total bill at Cafe Oriental, Element, EOTS and Tea Room",
+                        "20% off ala carte menu at Silk Road (Valid on Sat and Sun)"
+                    ]
+                },
+                {
+                    "buttontype": "LuckyDraw",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5544_app.jpg",
+                    "systemid": "L",
+                    "catname": "Travel",
+                    "itemname": "Genting Dream",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5544_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Submission of entries is valid from 25 October to 7 November 2018, and the draw will be held on 8 November 2018.<br/></li><li>Only 1 submission is allowed per customer.<br/></li><li>Additional chance is awarded to those who signed up for Singtel OnePass within the promotion period.<br/></li><li>Additional chance is awarded based on tenure with Singtel (1 extra chance for every 5 years tenure).<br/></li><li>All redemptions submitted and/or performed cannot be cancelled or withdrawn or amended.<br/></li><li>Winners will be notified via SMS on the redemption details within 5 working days from the draw date.<br/></li><li>Winners must collect their prizes by 22 November 2018.<br/></li><li>The 3 winners will each enjoy (1) one 2-night cruise for two pax on board Genting Dream.<br/></li><li>Package includes $75 port charge and $42 gratuity fees per person.<br/></li><li>Package does not include onboard spend and other expenses.<br/></li><li>No replacement of item is allowed.<br/></li><li>Prizes are not exchangeable for cash.<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion/redemption.<br/></li><li>Singtel reserves the right to replace this promotion/redemption with items of similar value.<br/></li><li>Singtel reserves the right to amend these terms and conditions of redemption from time to time without prior notice and without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply.<br/></li><li>Singtel's General Terms and Conditions of Service(s) can be found at www.singtel.com/terms-general (“General Terms”) and may be amended from time to time.<br/></li><li>For other lucky draw terms and conditions, please visit https://bit.ly/2zLaPPy.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/lucky-draw-246.png",
+                    "luckydraw": true,
+                    "retrievalmodes": [],
+                    "arborsvctype": "",
+                    "itemid": "5544",
+                    "catid": "2",
+                    "buttontext": "Take Part Now",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "Win a 2-night cruise getaway for two to Kuala Lumpur (worth $1,038)",
+                        "Treat yourself to an adventure on the seas with Genting Dream! 3 lucky winners will enjoy staying in the Balcony Oceanview room, indulging in complimentary fine dining and other luxurious facilities on board.",
+                        "Simply take part in our lucky draw before 7 November. New Singtel OnePass users get double the chance to win!"
+                    ]
+                },
+                {
+                    "buttontype": "Redemption",
+                    "thumbimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5541_app.jpg",
+                    "systemid": "L",
+                    "catname": "Travel",
+                    "itemname": "Mobike",
+                    "outofstock": false,
+                    "topbannerimageurl": "https://cdn1.singteldigital.com/content/dam/singtel/rewards/img/rewards_L/Item_5541_big.jpg",
+                    "isprestige": false,
+                    "tnc": {
+                        "details": "<ul><li>Submission of entries is valid from 1 to 14 March 2018 2359pm, while stocks last.<br/></li><li>Only 1 submission is allowed per customer, duplicate submissions will be void.<br/></li><li>Request will be processed within the next seven (7) working days.<br/></li><li>Eligible customer will receive an activation SMS with a unique redemption code to the nominated Singtel Postpaid mobile number.<br/></li><li>Eligible customer will need to activate the pass with the unique redemption code by 31 March 2018 under 'My Coupon' on Mobike app.<br/></li><li>Each customer can only key in the redemption code once under 'My Coupon' on Mobike app.<br/></li><li>Each Mobike pass is valid for 180 days, with effect from the date customer activates the pass.<br/></li><li>Eligible customer who receives the redemption code for the free Mobike Pass can ride unlimited numbers of trips within the validity period.<br/></li><li>First 2 hours of each trip is free and user will be charge $0.50 for every subsequent 30 minutes which is deduct-able from the Mobike Wallet.<br/></li><li>Rental time will start from time of unlock and stop at the time of locking a Mobike.<br/></li><li>For extended usage with no additional charges, users are encouraged to end the trip within 2 hours and unlock a Mobike again.<br/></li><li>Mobike Pass is only valid for Singapore registered mobile number ie (+65).<br/></li><li>Users riding outside of the Mobike Pass’s valid country will be charged the local regular pricing.<br/></li><li>User will be able to locate available Mobike(s) using the GPS and map, subject to the availability of nearby bicycle(s).<br/></li><li>Singtel shall not be liable in any way whatsoever for any matter arising from, relating to and/or attributable to such products and/or services.<br/></li><li>Prize must be taken as provided and is neither transferable nor exchangeable for cash or other prizes.<br/></li><li>Singtel reserves the right to replace the prize with a similar value product at its own discretion without prior notice.<br/></li><li>In the event of any dispute, the decision of Singtel is final.  No correspondence will be entertained.<br/></li><li>Singtel reserves the right to terminate, suspend or cancel (in whole or in part) this promotion.<br/></li><li>Singapore Mobike Pte Ltd and Singtel reserves the right to amend these terms and conditions of the promotion from time to time without prior notice.<br/></li><li>Singapore Mobike Pte Ltd and Singtel reserves the right to amend these terms and conditions of the promotion from time to time without any liability.<br/></li><li>Terms and conditions of Singtel and/or any other third parties may apply in addition to these terms.<br/></li><li>Singtel's General Terms and Conditions of Service(s) shall apply. It can be found at www.singtel.com (“General Terms”) and may be amended from time to time.<br/></li><li>Singapore Mobike Pte Ltd shall not be liable for any liabilities, losses, damages, costs and expenses in connection with or resulting from this promotion.<br/></li></lu>"
+                    },
+                    "svctype": "",
+                    "badgeimageurl": "https://cdn2.singteldigital.com/content/dam/singtel/rewards/img/badges/FCFS-246.png",
+                    "luckydraw": false,
+                    "retrievalmodes": [
+                        {
+                            "retrievalmode": "Email"
+                        }
+                    ],
+                    "arborsvctype": "",
+                    "itemid": "5541",
+                    "catid": "2",
+                    "buttontext": "Redeem",
+                    "outofstockmessage": "This delight item has been fully redeemed.",
+                    "tnctitle": "Terms & Conditions",
+                    "eligiblearborsvctype": "",
+                    "shownotify": false,
+                    "remarks": "",
+                    "desc": [
+                        "10,000 FREE 180-Day Mobike Passes to be given away!",
+                        "Redeem a FREE 180-Day Mobike Pass (worth $54.90) for unlimited rides islandwide! Applicable to Singtel Postpaid mobile customers only.",
+                        "To redeem, SMS STMobike<space>Singtel Postpaid mobile number to 741520 by 14 March, 2359h.",
+                        "Limited to one (1) pass per customer whilst stock lasts."
+                    ]
+                }
+            ]
+        }
+    ],
+    "redemptionform": {
+        "formdescription": "Kindly confirm the following information before your redemption.",
+        "namelabel": "Registered Name",
+        "namevalue": "LMSLEGACY ",
+        "emailvalue": "ut23_lmslegacy2@yopmail.com",
+        "contactnovalue": "",
+        "formtitle": "Redeem Voucher",
+        "contactnolabel": "Contact Number",
+        "showcheckbox": false,
+        "tnc": {
+            "details": "By clicking on the Proceed button, you agree that you have read, understood and accepted the {0}",
+            "links": [
+                {
+                    "svcname": "Terms & Conditions",
+                    "svctype": "rewarditempopup"
+                }
+            ]
+        },
+        "emailabel": "Email Address",
+        "screentitle": "Redemption"
+    },
+    "message": ""
+}
